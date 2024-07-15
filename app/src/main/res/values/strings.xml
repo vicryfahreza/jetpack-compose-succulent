@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SucculentApp</string>
+    <string name="info_page">Info</string>
+    <string name="dashboard_page">DashBoard</string>
+    <string name="about_page">About</string>
+    <string name="about_description">
+        \tHello my name is Vicry Fahreza live on Jakarta Barat i come from Gunadarma University on Depok and my major is Informatics Engineering now on 2023 semester 6.My career path is to becoming android developer after finishing Bangkit Program that start from february to july and get more connection after Bangkit program.\n\n\t\tMy Hobby is reading and listening to music also playing game even though i just casual gamer that playing a few category of game..
+    </string>
+    <string name="about">Vicry Fahreza</string>
+    <string name="about_user_image">https://res.cloudinary.com/ddmaxq4xx/image/upload/v1687264856/profile/user_photo_klmlo4.jpg</string>
+    <string name="info_succulent">https://res.cloudinary.com/ddmaxq4xx/image/upload/v1687273400/Succulent-type/Succulents/succulentAll_zrc2mj.jpg</string>
+    <string name="info_label">What Is Succulent</string>
+    <string name="info_desc_1">A succulent is a type of plant that is characterized by its ability to store water in its leaves, stems, or roots. The name succulent comes from the Latin word succus, which means juice or sap, referring to the plant\'s ability to retain moisture.</string>
+    <string name="info_label_soil">This is Our recommendation soil to start growing Succulent Plant</string>
+    <string name="info_soil1">https://res.cloudinary.com/ddmaxq4xx/image/upload/v1687275129/Succulent-type/Succulents/lava_rocks_nlihpm.jpg</string>
+    <string name="info_soil2">https://res.cloudinary.com/ddmaxq4xx/image/upload/v1687268395/Succulent-type/Succulents/Grade_RutsuEights_eifhbp.jpg</string>
+    <string name="info_soil3">https://res.cloudinary.com/ddmaxq4xx/image/upload/v1687268456/Succulent-type/Succulents/61Otm0zkT4L._AC_UF894_1000_QL80__eewtkb.jpg</string>
+
+</resources>
